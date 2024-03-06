@@ -1,0 +1,8 @@
+It gives commit history basically commit number, author info, date and commit message.
+ 
+Want to see what happend at this commit, zoom in info we use:
+# git show <commit number>
+ 
+Let’s understand this commit number
+This is a sha1 value randomly generated number which is a 40 character hexadecimal number which will be unique.
+
